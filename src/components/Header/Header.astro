@@ -10,11 +10,6 @@ import Search from './Search.tsx';
 const { currentPage } = Astro.props;
 const lang = currentPage && getLanguageFromURL(currentPage);
 ---
-<head>
-	<style global>
-			@import "../../styles/global.css";
-	</style>
-</head>
 
 <header>
 	<SkipToContent />
@@ -23,9 +18,9 @@ const lang = currentPage && getLanguageFromURL(currentPage);
 			<SidebarToggle client:idle />
 		</div>
 		<div class="logo flex">
-			<img src='/logoDAO.png' class="h-20 invisible md:visible">
+			<img src='/logoDAO.png' class="h-20">
 			<a href="/">
-				<h1>Documentation</h1>
+				<h1>Web3 Academy</h1>
 			</a>
 		</div>
 		<div style="flex-grow: 1;"></div>
@@ -39,6 +34,7 @@ const lang = currentPage && getLanguageFromURL(currentPage);
 </header>
 
 <style>
+	@import "../../styles/global.css";
 	header {
 		z-index: 11;
 		height: var(--theme-navbar-height);
