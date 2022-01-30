@@ -10,6 +10,11 @@ import Search from './Search.tsx';
 const { currentPage } = Astro.props;
 const lang = currentPage && getLanguageFromURL(currentPage);
 ---
+<head>
+	<style global>
+			@import "../../styles/global.css";
+	</style>
+</head>
 
 <header>
 	<SkipToContent />
@@ -18,7 +23,7 @@ const lang = currentPage && getLanguageFromURL(currentPage);
 			<SidebarToggle client:idle />
 		</div>
 		<div class="logo flex">
-			<AstroLogo size={40} />
+			<img src='/logoDAO.png' class="h-20 invisible md:visible">
 			<a href="/">
 				<h1>Documentation</h1>
 			</a>
