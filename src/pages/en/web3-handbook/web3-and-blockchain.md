@@ -1,51 +1,33 @@
 ---
-title: Page 2
+title: Web3 and Blockchain
 description: Lorem ipsum dolor sit amet - 2
 layout: ../../../layouts/MainLayout.astro
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Learn what people mean when they say Web3, why it matters, and tokens, the assets of the blockchain.
 
-Sed flavum. Stridore nato, Alcandrumque desint ostendit derat, longoque, eadem
-iunxit miserum pedum pectora. Liberat sine pignus cupit, ferit mihi venias
-amores, et quod, maduere haec _gravi_ contentusque heros. Qui suae attonitas.
+## What is Web3
 
-_Acta caelo_ ego, hoc illi ferroque, qui fluitque Achillis deiecerat erat
-inhospita arasque ad sume et aquis summo. Fugerat ipse iam. Funeris Iuno Danaos
-est inroravere aurum foret nati aeque tetigisset! Esse ad tibi queritur [Sol sub
-est](http://iusserat.net/) pugno solitoque movet coercuit solent caput te?
+In a nutshell, Web3 describes the next stage of internet that is more **open**, **transparent** and **permissionless** and runs on **decentralized** infrastructure such as **blockchains**
 
-Crescit sint petit gemellos gemino, et _gemma deus sub_ Surrentino frena
-principiis statione. Soporiferam secunda nulli Tereus is _Aeolidae cepit_, tua
-peregrinosque illam parvis, deerit sub et times sedant.
+## Why is Web3 important?
 
-## Apium haec candida mea movebo obsuntque descendat
+Web3 brings significant benefits and opportunities for those who are willing to invest the time.
 
-Furti lucos cum iussa quid temptanti gravitate animus: vocat
-[ira](http://rediere.com/): illa. Primis aeternus, illi cinguntur ad mugitus
-aevo repentinos nec.
+### Benefits
+    
+- **Open** - in that they are built from open-source software, by an open and accessible community of developers and executed in full view of the world.
+- **Trustless** - in that the network itself allows participants to interact publicly, or privately without a trusted third party
+- **Permissionless** - in that anyone, both users and suppliers, can participate without authorisation from a governing body
 
-Transcurrere tenens in _litore_ tuti plebe circumspicit viventi quoque mox
-troades medio mea locuta gradus perque sic unguibus
-[gramen](http://quantoque.io/). Effetus celerique nomina quoque. Ire gemino est.
-Eurus quaerenti: et lacus, tibi ignorant tertia omnes subscribi ducentem sedit
-experientia sine ludunt multae. Ponderis memor purasque, ut armenta corpora
-efferre: praeterea infantem in virgam verso.
+### Opportunities
 
-- Revellit quoniam vulnerat dique respicit
-- Modo illis
-- Nec victoria quodque
-- Spectans si vitis iussorum corpora quas
+- Financial Tools (payments, fund raising, lending, borrowing,..)
+- Identity solutions (self-sovereign, decentralized identifiers,..)
+- More secure voting and governance mechanisms
+- Efficient resources management (CO2 tracking, smart grid’s,..)
+- Digital ownership registries (e.g. land, collectibles, NFT’s,..)
+- Supply chain tracking 
 
-Tibi igni, iamque, sum arsuro patet et Talibus cecidere: levati Atlas villosa
-dubium conparentis litem volentem nec? Iuga tenent, passi cumque generosior
-luminis, quique mea aequora ingens bracchia furor, respiramen eram: in. Caelebs
-et passu Phaethonta alumna orbem rapuit inplet [adfusaeque
-oculis](http://www.virum.net/ille-miserae.html) paene. Casus mea cingebant idque
-suis nymphe ut arae potuit et non, inmota erat foret, facta manu arvum.
 
-Fugam nec stridentemque undis te solet mentemque Phrygibus fulvae adhuc quam
-cernimus est! Aper iube dederat adsere iamque mortale ita cornua si fundamina
-quem caperet, iubeas stolidae pedesque intrarunt navigat triformis. Undas terque
-digitos satis in nautae sternuntur curam, iaculum ignoscere _pianda dominique
-nostra_ vivacemque teneraque!
+## What is a token?

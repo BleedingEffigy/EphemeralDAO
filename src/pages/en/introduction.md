@@ -1,14 +1,15 @@
 ---
-title: Introduction
+title: What is Web3 School?
 description: Docs intro
 layout: ../../layouts/MainLayout.astro
 ---
 
-**Welcome to Astro!**
+Welcome to Web3 School, a platform by a group of developers and enthusiasts to help others learn, use, and build Web3.
 
-This is the `docs` starter template. It contains all of the features that you need to build a Markdown-powered documentation site, including:
+Get up to speed with our 10 min Quickstart Guide, or visit our modules
 
-- ✅ **Full Markdown support**
+You can learn:
+- ✅ **The essentials to get started in Web3 Handbook**
 - ✅ **Responsive mobile-friendly design**
 - ✅ **Sidebar navigation**
 - ✅ **Search (powered by Algolia)**
@@ -20,6 +21,8 @@ This is the `docs` starter template. It contains all of the features that you ne
 ## Getting Started
 
 To get started with this theme, check out the `README.md` in your new project directory. It provides documentation on how to use and customize this template for your own project. Keep the README around so that you can always refer back to it as you build.
+
+## Contributing
 
 Found a missing feature that you can't live without? Please suggest it on Discord [(#ideas-and-suggestions channel)](https://astro.build/chat) and even consider adding it yourself on GitHub! Astro is an open source project and contributions from developers like you are how we grow!
 
