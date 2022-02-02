@@ -21,8 +21,11 @@ You can learn:
 
 Web3 School is a growing work-in-progress, so check back frequently for new content! To get started right away, try these top items:
 
+- [Our Quickstart Guide]() will get you familiar with blockchains and the Web3 ecosystem in 10 minutes
+- [Web3 Handbook]() gives a more in-depth explanation of the concepts needed to start using Web3 today!
+
 ## Contributing
 
-Found a missing feature that you can't live without? Please suggest it on Discord [(#ideas-and-suggestions channel)](https://astro.build/chat) and even consider adding it yourself on GitHub! Astro is an open source project and contributions from developers like you are how we grow!
+EphemeralDAO is an [open-source project](https://github.com/BleedingEffigy/EphemeralDAO)that welcomes contributors of all specialties from all over the world!
 
-Good luck out there, Astronaut. 🧑‍🚀
+Are you a great communicator who'd like to make the global NFT developer community better? Share your knowledge with your peers and contribute a tutorial, how-to, or concept guide to this open-source site.
