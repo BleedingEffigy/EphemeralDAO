@@ -21,8 +21,8 @@ You can learn:
 
 Web3 School is a growing work-in-progress, so check back frequently for new content! To get started right away, try these top items:
 
-- [Our Quickstart Guide]() will get you familiar with blockchains and the Web3 ecosystem in 10 minutes
-- [Web3 Handbook]() gives a more in-depth explanation of the concepts needed to start using Web3 today!
+- [Our Quickstart Guide](/en/quick-start) will get you familiar with blockchains and the Web3 ecosystem in 10 minutes
+- [Web3 Handbook](/en/web3-handbook/web3-and-blockchain) gives a more in-depth explanation of the concepts needed to start using Web3 today!
 
 ## Contributing
 
