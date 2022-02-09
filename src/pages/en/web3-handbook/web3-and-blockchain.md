@@ -4,7 +4,7 @@ description: Learn what people mean when they say Web3
 layout: ../../../layouts/MainLayout.astro
 ---
 
-Learn what people mean when they say Web3, why it matters, and tokens, the assets of the blockchain.
+Learn what people mean when they say Web3, why it matters, and about tokens, the assets of the blockchain.
 
 ## What is Web3
 
