@@ -33,7 +33,7 @@ export const SIDEBAR = {
 	en: [
 		{ text: '', header: true },
 		{ text: 'Quick Start', link: 'en/quick-start' },
-		{ text: 'Resources', link: 'en/quick-start' },
+		{ text: 'Resources', link: 'en/resources' },
 		{ text: 'Web3 Handbook', header: true },
 		{ text: 'Introduction', link: 'en/introduction' },
 		{ text: 'Web3 and Blockchain', link: 'en/web3-handbook/web3-and-blockchain' },
@@ -41,7 +41,7 @@ export const SIDEBAR = {
 		{ text: 'Why Join Web3🚧', link: 'en/web3-handbook/why-join-web3' },
 		{ text: 'Wallets🚧', link: 'en/web3-handbook/wallets' },
 		{ text: 'Scam Proofing🚧', link: 'en/web3-handbook/scam-proofing' },
-		{ text: 'Register an ENS Domain🚧', link: 'en/web3-handbook/register-an-ens-domain' },
+		{ text: 'Become a denizen of Web3🚧', link: 'en/web3-handbook/register-an-ens-domain' },
 		
 		{ text: 'NFT 101🚧', header: true },
 		{ text: 'What is an NFT🚧', link: 'en/underconstruction' },
@@ -64,6 +64,10 @@ export const SIDEBAR = {
 		{ text: 'Crypto Zombies🚧', link: 'en/underconstruction' },
 		{ text: 'Web3🚧', link: 'en/underconstruction' },
 
+		{ text: 'Token Development', header: true },
+		{ text: 'Basics of ERC20 Tokens🚧', link: 'en/underconstruction' },
+		{ text: 'Make an ERC20 token with Moralis.io🚧', link: 'en/underconstruction' },
+		{ text: 'Make a ERC20 token using Thirdweb🚧', link: 'en/underconstruction' },				
 
 		{ text: 'Dapp Development', header: true },
 		{ text: 'Your First Dapp🚧', link: 'en/underconstruction' },
@@ -79,7 +83,5 @@ export const SIDEBAR = {
 		{ text: 'Advanced Trading', header: true },
 		{ text: 'Coming soon', link: 'en/page-4' },
 
-		{ text: 'Resources', header: true },
-		{ text: 'Coming soon', link: 'en/page-4' },
 	],
 };
