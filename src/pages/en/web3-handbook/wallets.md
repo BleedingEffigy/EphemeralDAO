@@ -1,51 +1,58 @@
 ---
-title: Page 2
-description: Lorem ipsum dolor sit amet - 2
+title: Setup a wallet
+description: Learn how to setup a ETH or SOL wallet in 5 minutes
 layout: ../../../layouts/MainLayout.astro
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+What is a crypto wallet? and how to set one up for Ethereum in 5 minutes?
 
-Sed flavum. Stridore nato, Alcandrumque desint ostendit derat, longoque, eadem
-iunxit miserum pedum pectora. Liberat sine pignus cupit, ferit mihi venias
-amores, et quod, maduere haec _gravi_ contentusque heros. Qui suae attonitas.
 
-_Acta caelo_ ego, hoc illi ferroque, qui fluitque Achillis deiecerat erat
-inhospita arasque ad sume et aquis summo. Fugerat ipse iam. Funeris Iuno Danaos
-est inroravere aurum foret nati aeque tetigisset! Esse ad tibi queritur [Sol sub
-est](http://iusserat.net/) pugno solitoque movet coercuit solent caput te?
+When most people talk about wallets, they are referring to an application (browser extensions or mobile app) that lets you manage your crypto accounts
 
-Crescit sint petit gemellos gemino, et _gemma deus sub_ Surrentino frena
-principiis statione. Soporiferam secunda nulli Tereus is _Aeolidae cepit_, tua
-peregrinosque illam parvis, deerit sub et times sedant.
+In Ethereum, accounts are the keypairs for a user-owned account.
 
-## Apium haec candida mea movebo obsuntque descendat
 
-Furti lucos cum iussa quid temptanti gravitate animus: vocat
-[ira](http://rediere.com/): illa. Primis aeternus, illi cinguntur ad mugitus
-aevo repentinos nec.
+A wallet application makes it easy to set up accounts on certain networks, move tokens around, approve and initiate transactions, and connect to web applications (Web3).
 
-Transcurrere tenens in _litore_ tuti plebe circumspicit viventi quoque mox
-troades medio mea locuta gradus perque sic unguibus
-[gramen](http://quantoque.io/). Effetus celerique nomina quoque. Ire gemino est.
-Eurus quaerenti: et lacus, tibi ignorant tertia omnes subscribi ducentem sedit
-experientia sine ludunt multae. Ponderis memor purasque, ut armenta corpora
-efferre: praeterea infantem in virgam verso.
+We'll be setting up accounts on both Ethereum, and we'll do so using Metamask
 
-- Revellit quoniam vulnerat dique respicit
-- Modo illis
-- Nec victoria quodque
-- Spectans si vitis iussorum corpora quas
 
-Tibi igni, iamque, sum arsuro patet et Talibus cecidere: levati Atlas villosa
-dubium conparentis litem volentem nec? Iuga tenent, passi cumque generosior
-luminis, quique mea aequora ingens bracchia furor, respiramen eram: in. Caelebs
-et passu Phaethonta alumna orbem rapuit inplet [adfusaeque
-oculis](http://www.virum.net/ille-miserae.html) paene. Casus mea cingebant idque
-suis nymphe ut arae potuit et non, inmota erat foret, facta manu arvum.
 
-Fugam nec stridentemque undis te solet mentemque Phrygibus fulvae adhuc quam
-cernimus est! Aper iube dederat adsere iamque mortale ita cornua si fundamina
-quem caperet, iubeas stolidae pedesque intrarunt navigat triformis. Undas terque
-digitos satis in nautae sternuntur curam, iaculum ignoscere _pianda dominique
-nostra_ vivacemque teneraque!
+
+MetaMask is a popular browser-based wallet that makes it easy to allow web applications to interact with your Ethereum account.
+
+1. Visit the official site metamask.io and follow the instructions for your browser
+
+Here you can see:
+1. Your current network. 
+There's the Mainnet, sidechains like Polygon, and also multiple testnets for developers
+
+2. Connection status
+
+3. Your Wallet Address, public information, and safe to share.
+
+⚠️Don't share your private key or seed phrase with anyone! ⚠️
+
+
+Some websites use your wallet to talk to your blockchain account (these are called Dapps). They usually have a button like the below to prompt you for info about your account.
+
+
+Here's an example of us signing into UniSwap.
+First, we click the connect wallet button. 
+At this point, most sites will prompt you to choose one of the multiple wallet apps to connect with.
+We'll stick to using Metamask
+
+
+Then you'll choose the account you want to connect with
+
+
+Now on this last page, you'll review the permissions the website is asking you for. 
+If it looks alright, go ahead and click connect.
+Now you'll be connected to the site and officially using a dapp!
+
+
+And that's it!
+If you thought this was easy, wait until you see how to set up the Phantom wallet and start interacting with Solana!
+
+If you'd like to read more about wallets head over to 
+https://ephemeraldao.netlify.app/
