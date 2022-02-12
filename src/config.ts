@@ -32,14 +32,15 @@ export const COMMUNITY_INVITE_URL = `https://discord.gg/pUZDzswJ`;
 export const SIDEBAR = {
 	en: [
 		{ text: '', header: true },
+		{ text: 'Introduction', link: 'en/introduction' },
 		{ text: 'Quick Start', link: 'en/quick-start' },
 		{ text: 'Resources', link: 'en/resources' },
+
 		{ text: 'Web3 Handbook', header: true },
-		{ text: 'Introduction', link: 'en/introduction' },
 		{ text: 'Web3 and Blockchain', link: 'en/web3-handbook/web3-and-blockchain' },
 		{ text: 'Blockchain Networks', link: 'en/web3-handbook/blockchain-networks' },
-		{ text: 'Why Join Web3🚧', link: 'en/web3-handbook/why-join-web3' },
-		{ text: 'Wallets🚧', link: 'en/web3-handbook/wallets' },
+		{ text: 'Why Web3 is Exciting', link: 'en/web3-handbook/why-join-web3' },
+		{ text: 'Wallets', link: 'en/web3-handbook/wallets' },
 		{ text: 'Scam Proofing🚧', link: 'en/web3-handbook/scam-proofing' },
 		{ text: 'Become a denizen of Web3🚧', link: 'en/web3-handbook/register-an-ens-domain' },
 		
