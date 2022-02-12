@@ -37,7 +37,7 @@ export const SIDEBAR = {
 		{ text: 'Web3 Handbook', header: true },
 		{ text: 'Introduction', link: 'en/introduction' },
 		{ text: 'Web3 and Blockchain', link: 'en/web3-handbook/web3-and-blockchain' },
-		{ text: 'Blockchain Networks🚧', link: 'en/web3-handbook/blockchain-networks' },
+		{ text: 'Blockchain Networks', link: 'en/web3-handbook/blockchain-networks' },
 		{ text: 'Why Join Web3🚧', link: 'en/web3-handbook/why-join-web3' },
 		{ text: 'Wallets🚧', link: 'en/web3-handbook/wallets' },
 		{ text: 'Scam Proofing🚧', link: 'en/web3-handbook/scam-proofing' },
