@@ -33,7 +33,7 @@ export const SIDEBAR = {
 	en: [
 		{ text: '', header: true },
 		{ text: 'Introduction', link: 'en/introduction' },
-		{ text: 'Quick Start', link: 'en/quick-start' },
+		{ text: 'Crypto Quick Start', link: 'en/quick-start' },
 		{ text: 'Resources', link: 'en/resources' },
 
 		{ text: 'Web3 Handbook', header: true },
