@@ -4,15 +4,21 @@ description: Learn what people mean when they say Web3
 layout: ../../../layouts/MainLayout.astro
 ---
 
-Learn what people mean when they say Web3, why it matters, and about tokens, the assets of the blockchain.
+Learn what people mean when they say Web3, why it matters, and the role of tokens, the assets of the blockchain.
+
+Many companies are starting to get involved in blockchain (think Youtube, JPMorgan, Square Enix...), so the space will definitely get bigger as more cash flows into the ecosystem.
+Now would be a great time to get involved, but there's so many different resources to use, it's hard to know which ones are the right ones. Some don't even try paint the whole picture, or at the worst they teach mistaken ideas.  
+So that's why I wrote this page, so it could serve as an introductory lesson for anyone who wants to take the first steps into exploring Web3!
 
 ## What is Web3
 
 In a nutshell, Web3 describes the next stage of internet that is more **open**, **transparent** and **permissionless** and runs on **decentralized** infrastructure such as **blockchains**
 
-If web1 was a platform to consume content, and web2 saw people consuming content created from other people but owned by platforms built by tech giants, then web3 is a platform for consuming content that is created and owned by other people.
+- If **web1** was a platform to consume content, and 
+- **web2** saw people consuming content created from other people but owned by platforms built by tech giants, then 
+- **web3** is a platform for consuming content that is created and owned by other people.
 
-Instead of platforms owned by tech giants, people can use decentralized applications (Dapps) that are available globally.
+Instead of platforms owned by tech giants, people can use **decentralized applications (Dapps)** that are available globally.
 
 ## Why is Web3 important?
 
@@ -40,9 +46,9 @@ The defining infrastructure of Web3 are blockchains.
 **A blockchain is a linked list of transactions stored on a network of computers.**
 Blockchains are:
 
-- Decentralized: Transactions are on a network of computers (nodes).
-- Immutable: Transactions cannot be changed once committed.
-- Open: Transactions can be viewed by anyone. 
+- **Decentralized**: Transactions are on a network of computers (nodes).
+- **Immutable**: Transactions cannot be changed once committed.
+- **Open**: Transactions can be viewed by anyone. 
 
 ## How blockchains work
 Each block has:
