@@ -10,7 +10,7 @@ It is actively breaking down barriers to finance and fundamentally changing the 
 
 What we should be paying attention to is the application layer being developed as it will inevitably make a huge impact in the future. 
 It's like when smartphones got apps, at first it was mostly just games but it introduced new ways we interacted with our phones. 
-> Web3 is the app layer of blockchain and is introducing new ways we will use The Internet.
+> Web3 is the app layer of blockchain and is introducing new ways we will use the Internet.
 
 ## Whats the hype?
 
