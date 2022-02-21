@@ -45,11 +45,12 @@ export const SIDEBAR = {
 		{ text: 'Become a denizen of Web3🚧', link: 'en/web3-handbook/register-an-ens-domain' },
 		
 		{ text: 'NFT 101🚧', header: true },
-		{ text: 'What is an NFT🚧', link: 'en/underconstruction' },
+		{ text: 'What is an NFT', link: 'en/nft-101/what-is-an-nft' },
 		{ text: 'Gas Fees🚧', link: 'en/underconstruction' },
 		{ text: 'Ethereum NFTs 101🚧', link: 'en/underconstruction' },
 		{ text: 'Solana NFTs 101🚧', link: 'en/underconstruction' },
-		{ text: 'Marketplaces🚧', link: 'en/underconstruction' },
+		{ text: 'Using a Marketplace?🚧', link: 'en/underconstruction' },
+		{ text: 'NFT\'s in DeFi🚧', link: 'en/underconstruction' },
 
 		{ text: 'CS Fundamentals', header: true },
 		{ text: 'CS Basics Crash Course🚧', link: 'en/underconstruction' },
@@ -81,7 +82,7 @@ export const SIDEBAR = {
 		{ text: 'Smart Contract🚧', link: 'en/underconstruction' },
 
 		
-		{ text: 'Advanced Trading', header: true },
+		{ text: 'DeFi and Trading', header: true },
 		{ text: 'Coming soon', link: 'en/page-4' },
 
 	],
