@@ -4,7 +4,6 @@ const articles = SIDEBAR.en.filter( entry =>
     {
         return (entry.header != true) && (entry.link != 'en/underconstruction')
     })
-console.log(articles)
 ---
 <head>
 	<style global>
@@ -45,20 +44,22 @@ console.log(articles)
     <div class="flex flex-wrap justify-center sm:-m-4 -mx-4 -mb-10 -mt-4">
         {articles.map( article => (
             <div class="p-4 lg:w-1/3 sm:mb-0 mb-6">
-                <div class="bg-gray-800 shadow-lg rounded-lg ">
-                    <div class="rounded-t-lg h-32 overflow-hidden ">
-                        <img alt="content" class="object-cover object-center h-full w-full" src="https://assets.website-files.com/5e997428d0f2eb13a90aec8c/6193e40de47406685c2e773e_Frame%203%20(1).png">
+                <a href={article.link}>
+                    <div class="bg-gray-800 shadow-lg rounded-lg hover:cursor-pointer hover:scale-110 transition" href={article.link} >
+                        <div class="rounded-t-lg h-32 overflow-hidden ">
+                            <img alt="content" class="object-cover object-center h-full w-full" src="https://assets.website-files.com/5e997428d0f2eb13a90aec8c/6193e40de47406685c2e773e_Frame%203%20(1).png">
+                        </div>
+                        <div class="px-5 pb-5">
+                            <h2 class="text-xl font-medium title-font text-white mt-5">{article.text}</h2>
+                            <div class="text-rose-500 inline-flex items-center mt-3 w-full">
+                                Learn more
+                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                                    <path d="M5 12h14M12 5l7 7-7 7"></path>
+                                </svg>
+                            </div>
+                        </div>
                     </div>
-                    <div class="px-5 pb-5">
-                        <h2 class="text-xl font-medium title-font text-white mt-5">{article.text}</h2>
-                        <a class="text-rose-500 inline-flex items-center mt-3 w-full" href={article.link}>
-                            Learn more
-                            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-                                <path d="M5 12h14M12 5l7 7-7 7"></path>
-                            </svg>
-                        </a>
-                    </div>
-                </div>
+                </a>
             </div>
         ))}
     </div>
