@@ -32,7 +32,7 @@ export const COMMUNITY_INVITE_URL = `https://discord.gg/pUZDzswJ`;
 export const SIDEBAR = {
 	en: [
 		{ text: '', header: true },
-		{ text: 'Introduction', link: 'en/introduction' },
+		{ text: 'Introduction', link: '/en/introduction' },
 		{ text: 'Crypto Quick Start', link: 'en/quick-start' },
 		{ text: 'Resources', link: 'en/resources' },
 
@@ -87,3 +87,4 @@ export const SIDEBAR = {
 
 	],
 };
+

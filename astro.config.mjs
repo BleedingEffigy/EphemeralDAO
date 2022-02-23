@@ -14,4 +14,9 @@ export default /** @type {import('astro').AstroUserConfig} */ ({
 		// Enable the React renderer, for the Algolia search component
 		'@astrojs/renderer-react',
 	],
+	buildOptions: {
+		site: 'https://ephdao.ahernandez.dev/',
+		sitemap: true
+	}
 });
+
