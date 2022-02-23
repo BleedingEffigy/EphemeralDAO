@@ -1,4 +1,5 @@
 // tailwind.config.cjs
+
 module.exports = {
   content: [
     './public/**/*.html',
@@ -25,6 +26,10 @@ module.exports = {
           },
         },
       },
+      fontFamily: {
+        russo: ['Russo One'],
+        poppins: ['Poppins']
+      }
     },
   },
   // more options here
