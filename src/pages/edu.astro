@@ -45,7 +45,7 @@ const articles = SIDEBAR.en.filter( entry =>
     <div class="flex flex-wrap justify-center sm:-m-4 -mx-4 -mb-10 -mt-4">
         {articles.map( article => (
             <div class="p-4 lg:w-1/3 sm:mb-0 mb-6">
-                <a href={article.link}>
+                <a href={"/" + article.link}>
                     <div class="bg-gray-800 shadow-lg shadow-gray-900/30 rounded-lg hover:cursor-pointer hover:scale-110 transition" href={article.link} >
                         <div class="rounded-t-lg h-32 overflow-hidden ">
                             <img alt="content" class="object-cover object-center h-full w-full" src="https://assets.website-files.com/5e997428d0f2eb13a90aec8c/6193e40de47406685c2e773e_Frame%203%20(1).png">
